@@ -1,0 +1,3 @@
+#!/bin/sh
+
+cp -f /opt/collectd-plugins/collectd.conf /etc/collectd.conf
